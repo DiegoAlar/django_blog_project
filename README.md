@@ -19,8 +19,6 @@ Django, Python3
 
 ### Installing and running
 
-Django Folder: iMagic_python
-
 To better run the Django application, it is recommended to create a virtual environment and consider the following requirements.txt
 ```$ cat > requirements.txt```
 ```asgiref==3.2.10
